@@ -1,0 +1,33 @@
+Threat demonstrating is the procees by which potential dangers can be identified,enumarated ,and organized. 
+
+there are four avilabale understood strategies : 
+
+STRIDE 
+
+PASTA 
+
+TRIKE 
+
+Huge 
+
+STRIDE : The STRIDE  way to deal with Threatdemonstrating was intoduced route in 1999 at microsoft.Provinding a nemonic for the engineer to discover and test our items .Walk examples and practices and resource section point and tech displaying pratices was produced by microsoft. 
+
+PASTA:The process for assault reproduction and Threatanalsysis .this is a seven-advance ,chance driven methodology.It gives seven stage procedure to alligning business targets and specialized necessities considering consistence isssue and business analsysis .the expectation of the strategy is to give dynamic risk recognizable proof ,enumaration and squaring closes.this philosophy is proposed to give an aggressors driven perspective of the application. 
+
+TRIKE : this is utilized to for Threatshow as a hazard administration device and to satify security reviewing process.TRIKE is built up with the satisfactory level of hazard alloted to every advantage. 
+
+VAST:it is visual ,spry and straightforward Threatdemonstrating .the fundamental topic of this Immense is to incorporating a product advancement system to get noteworthy yields.
+
+The best pratices of Threat demonstrating are: 
+
+Noteworthy yields 
+
+Business center 
+
+Consistency 
+
+Mix with ongoing Threat Knowledge 
+
+Adaptability 
+
+Conclusion
